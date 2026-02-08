@@ -13,8 +13,7 @@
 * [What’s New in v0.1.0](#-whats-new-in-v010)
 * [Architecture Overview](#-architecture-overview)
 * [Tech Stack](#-tech-stack)
-* [How to Run](#-how-to-run)
-* [How to Contribute](#-how-to-contribute)
+* [How to Run](#️-how-to-run)
 * [License](#-license)
 
 ---
